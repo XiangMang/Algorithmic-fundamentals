@@ -3,4 +3,4 @@
 
 其中 `Code` 文件夹中为习题的源代码，以题目编号座位文件名称，所用语言为C++
 
-`Code-parsing` 文件夹为我对题目的整理，由Typora制作
+`Code-parsing` 文件夹为我对题目的整理，使用Typora制作
